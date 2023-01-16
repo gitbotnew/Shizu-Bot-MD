@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['923080613785', '👑 Shizu - Creador 👑', true],
+  ['923080613785', '👑 ⍟Devil - Creador 👑', true],
   ['923080613785']
 ] 
 global.suittag = ['34623442554'] 
