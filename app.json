@@ -1,5 +1,5 @@
 {
-  "name": "Shizu-Bot-MD",
+  "name": "Devil-Bot-MD",
   "description": "Sigueme en Instagram: @shizu.bot (≧▽≦)",
   "repository": "https://github.com/Shizu-Hub/Shizu-Bot-MD",
   "logo": "https://raw.githubusercontent.com/Shizu-Hub/Shizu-Bot/master/Menu2.jpg",
@@ -9,10 +9,10 @@
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/ImYanXiao/Elaina-MultiDevice"
   },
   {
-    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    "url": "https://github.com/ImYanXiao/Elaina-MultiDevice"
   }    
  ]
 }
